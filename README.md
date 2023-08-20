@@ -48,14 +48,7 @@ Contributions to this repository are highly encouraged! If you have additional i
 
 Please ensure that your contributions adhere to the existing coding style and standards.
 
-## Learning Resources
 
-Find additional learning resources to complement your DSA journey:
-
-- [Recommended Books](#) (link to a list of DSA books)
-- [Online Tutorials](#) (link to online DSA tutorials)
-- [Interactive Coding Platforms](#) (link to platforms for practicing DSA problems)
-- [Community Forums](#) (link to forums for discussing DSA concepts)
 
 ## License
 
