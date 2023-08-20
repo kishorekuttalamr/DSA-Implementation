@@ -21,6 +21,7 @@ Currently, the repository contains the implementation of:
 
 - **Stack:** Explore the stack data structure, a fundamental concept in computer science. The implementation is provided in the `stack` folder, along with a detailed explanation of its properties and use cases.
 - **Queue:** Discover the queue data structure, an essential concept in computer science. The implementation is provided in the `queue` folder, along with an in-depth explanation of its characteristics and applications.
+- **Circular Queue:** Explore the Circular Queue data structure, which is a versatile variant of the traditional queue with cyclic behavior. In this example, we'll provide an implementation of the Circular Queue in the `circular_queue` folder, along with a comprehensive explanation of its features, and common applications.
 
 More data structures will be added soon!
 
