@@ -9,7 +9,6 @@ Welcome to the DSA-CPP-JAVA-Implementations repository! This repository is a val
 - [Algorithms](#algorithms)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [Learning Resources](#learning-resources)
 
 ## Introduction
 
