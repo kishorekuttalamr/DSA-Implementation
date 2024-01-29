@@ -1,6 +1,6 @@
-# DSA-CPP-Implementations
+# DSA-CPP-JAVA-Implementations
 
-Welcome to the DSA-CPP-Implementations repository! This repository is a valuable resource for anyone interested in learning, practicing, and mastering Data Structures and Algorithms (DSA) using the C++ programming language.
+Welcome to the DSA-CPP-JAVA-Implementations repository! This repository is a valuable resource for anyone interested in learning, practicing, and mastering Data Structures and Algorithms (DSA) using the C++, Java programming language.
 
 ## Table of Contents
 
