@@ -68,7 +68,7 @@ Stay tuned for updates as more algorithms are added to the repository!
 
 ## How to Use
 
-1. Clone the repository to your local machine using `git clone https://github.com/yourusername/DSA-CPP-JAVA-Implementations`.
+1. Clone the repository to your local machine using `git clone https://github.com/kishorekuttalamr/DSA-CPP-JAVA-Implementations`.
 2. Navigate to the relevant data structure or algorithm folder.
 3. Read the explanation provided to understand the concept and its implementation details.
 4. Study the well-commented C++ or Java code to see the implementation in action.
